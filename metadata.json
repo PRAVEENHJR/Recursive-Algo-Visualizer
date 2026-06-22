@@ -1,0 +1,6 @@
+{
+  "name": "Recursion Tree Visualizer",
+  "description": "An interactive tool to visualize recursive call trees for classic algorithms like Fibonacci, Factorial, Tower of Hanoi, Power Set, Permutations, Binary Search, Merge Sort, Quick Sort, and Pathfinding, complete with stepped execution and stack simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
